@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+header{
+    background-image: url('imagens/4cavaleiro_v3.png');
+    background-size: cover;
+    padding:2rem;
+    margin:-1rem;
+}
+
+h1{font-size: 3.4rem;
+    margin:0rem;
+    padding:0rem;
+    color: red;
+}
+
+h3{
+    font-size:3rem;
+}
+
+p{
+    font-size:1.8rem;
+    padding:0rem;
+    margin: 1.4rem;
+    color:#F0F4F5;
+}
